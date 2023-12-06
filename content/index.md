@@ -10,6 +10,7 @@ title: 我的数字花园
 
 ✈️: [BookSnitch | 好书收藏 | 阅读思考](https://t.me/booksnitch)
 
+📖我的分享博客: [AppSnitch](https://readfere.com)
+
 ▶️：[YouTube](https://www.youtube.com/@appsnitch)
 
-📖我的分享博客：[AppSnitch](https://readfere.com)
