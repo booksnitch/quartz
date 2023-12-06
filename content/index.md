@@ -12,5 +12,5 @@ title: 我的数字花园
 
 📖我的分享博客: [AppSnitch](https://readfere.com)
 
-▶️：[YouTube](https://www.youtube.com/@appsnitch)
+▶️: [YouTube](https://www.youtube.com/@appsnitch)
 
